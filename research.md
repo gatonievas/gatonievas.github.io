@@ -22,7 +22,7 @@ to 1% of the GDP of top 20% countries (and 2% of GDP for top 10% countries), all
 <br>
 ![]()
 
-Media coverage: *The Guardian (https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).
+Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).
 
 ---
 
