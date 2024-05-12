@@ -11,8 +11,6 @@ order: 1
 
 **[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/wp-content/uploads/2024/04/WorldInequalityLab_WP2024_14_Has-the-US-exorbitant-privilege-become-a-rich-world-privilege_Final.pdf){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}. 
 
-[Slides](https://gatonievas.github.io/documents/expriv_slides_may1224.pdf){:target="_blank"}
-
 <details>
   <summary> Abstract </summary> 
   <br>
@@ -25,6 +23,8 @@ to 1% of the GDP of top 20% countries (and 2% of GDP for top 10% countries), all
 ![]()
 
 Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).  *[Alternatives Economiques](https://www.alternatives-economiques.fr/pays-pauvres-financent-plus-riches/00111099){:target="_blank"}* (fr).
+
+[Slides](https://gatonievas.github.io/documents/expriv_slides_may1224.pdf){:target="_blank"}
 
 ---
 
