@@ -9,7 +9,7 @@ order: 1
 
 ## Working Papers
 
-**[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/wp-content/uploads/2024/04/WorldInequalityLab_WP2024_14_Has-the-US-exorbitant-privilege-become-a-rich-world-privilege_Final.pdf){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}.  
+**[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/wp-content/uploads/2024/04/WorldInequalityLab_WP2024_14_Has-the-US-exorbitant-privilege-become-a-rich-world-privilege_Final.pdf){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}. [Slides](https://github.com/gatonievas/gatonievas.github.io/tree/main/documents/expriv_slides_may1224){:target="_blank"}
 
 <details>
   <summary> Abstract </summary> 
