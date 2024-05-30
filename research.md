@@ -22,7 +22,7 @@ to 1% of the GDP of top 20% countries (and 2% of GDP for top 10% countries), all
 <br>
 ![]()
 
-Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).  *[Alternatives Economiques](https://www.alternatives-economiques.fr/pays-pauvres-financent-plus-riches/00111099){:target="_blank"}* (fr).
+Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).  *[Alternatives Economiques](https://www.alternatives-economiques.fr/pays-pauvres-financent-plus-riches/00111099){:target="_blank"}* (fr). *[Diario16](https://diario16plus.com/activos-en-el-extranjero-el-saqueo-del-mundo-rico-a-los-paises-pobres/){:target="_blank"}* (es). 
 
 [Slides](https://gatonievas.github.io/documents/expriv_slides_may1224.pdf){:target="_blank"}
 
