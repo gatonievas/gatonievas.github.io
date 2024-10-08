@@ -9,7 +9,7 @@ order: 1
 
 ## Working Papers
 
-**[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/wp-content/uploads/2024/04/WorldInequalityLab_WP2024_14_Has-the-US-exorbitant-privilege-become-a-rich-world-privilege_Final.pdf){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}. 
+**[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/wp-content/uploads/2024/04/WorldInequalityLab_WP2024_14_Has-the-US-exorbitant-privilege-become-a-rich-world-privilege_Final.pdf){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}*. 
 
 <details>
   <summary> Abstract </summary> 
@@ -25,6 +25,20 @@ to 1% of the GDP of top 20% countries (and 2% of GDP for top 10% countries), all
 Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).  *[Alternatives Economiques](https://www.alternatives-economiques.fr/pays-pauvres-financent-plus-riches/00111099){:target="_blank"}* (fr). *[Diario16](https://diario16plus.com/activos-en-el-extranjero-el-saqueo-del-mundo-rico-a-los-paises-pobres/){:target="_blank"}* (es). 
 
 [Slides](https://gatonievas.github.io/documents/expriv_slides_may1224.pdf){:target="_blank"}
+
+---
+
+**[Trade and diplomacy Economic determinants of international cooperation agreements and its effect on international trade in the post World War II era: 1945-2022](https://pse.hal.science/halshs-04721902v1){:target="_blank"}**  *with [Antoni Estevadeordal](https://www.ibei.org/en/antoni-estevadeordal_43420){:target="_blank"}*. 
+
+<details>
+  <summary> Abstract </summary> 
+  <br>
+  <blockquote>
+We study the determinants of international cooperation and its effect on trade. We rely on a unique database of 31,982 International Cooperation Agreements (ICAs) signed between 1945-2022 by 193 countries. Estimating bilateral gravity equations, we find that trade follows the flag: ICAs increase bilateral exports by around 3-11%. We provide complementary results using firm level exporting data and address potential endogeneity through panel approach and an instrumental variable that exploits the network structure of international relations. Further, using LPM we find that gravity forces explain country pairs entering an ICA, as well as their similarity in UNGA voting and democratic levels. Importantly, we find that ICAs serve as stepping stones towards Regional Trade Agreements, with stronger effects for North-South relations. Our results shed new light on the international relations-trade nexus and contribute to the current debate on friendshoring.
+  </blockquote>
+ </details>
+<br>
+![]()
 
 ---
 
