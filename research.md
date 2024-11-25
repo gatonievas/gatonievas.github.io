@@ -28,7 +28,7 @@ Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/a
 
 ---
 
-**[Trade and diplomacy Economic determinants of international cooperation agreements and its effect on international trade in the post World War II era: 1945-2022](https://pse.hal.science/halshs-04721902v1){:target="_blank"}**  *with [Antoni Estevadeordal](https://www.ibei.org/en/antoni-estevadeordal_43420){:target="_blank"}*. 
+**[Trade and diplomacy Economic determinants of international cooperation agreements and its effect on international trade in the post World War II era: 1945-2022](https://shs.hal.science/halshs-04721902v2){:target="_blank"}**  *with [Antoni Estevadeordal](https://www.ibei.org/en/antoni-estevadeordal_43420){:target="_blank"}*. 
 
 <details>
   <summary> Abstract </summary> 
