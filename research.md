@@ -8,6 +8,19 @@ order: 1
 # Research
 
 ## Working Papers
+**[Unequal Exchange and North-South Relations: Evidence from Global Trade Flows and the World Balance of Payments 1800-2025](){:target="_blank"}**  *with [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}*. 
+
+<details>
+  <summary> Abstract </summary> 
+  <br>
+  <blockquote>
+This paper constructs a new database on global trade flows and the world balance of payment (including goods, services, income and transfers) covering 57 core territories (48 main countries + 9 residual regions) over the 1800-2025 period. This allows us to analyze patterns of global imbalances, current account surplus/deficit and net foreign wealth accumulation over more than two centuries. We quantify the role of colonial transfers and low commodity prices (due to forced labor and other factors) in the build-up of Europe’s foreign wealth during the 1800-1914 period. We compare this experience to the global imbalances which developed during the 1970-2025 period. We stress the persistent role of unequal bargaining power and terms of exchange and the need for collective rules. We also provide counterfactual simulations on foreign wealth accumulation under alternative trade & monetary regimes.
+  </blockquote>
+ </details>
+<br>
+![]()
+
+---
 
 **[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/wp-content/uploads/2024/04/WorldInequalityLab_WP2024_14_Has-the-US-exorbitant-privilege-become-a-rich-world-privilege_Final.pdf){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}*. 
 
@@ -24,7 +37,7 @@ to 1% of the GDP of top 20% countries (and 2% of GDP for top 10% countries), all
 
 Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).  *[Alternatives Economiques](https://www.alternatives-economiques.fr/pays-pauvres-financent-plus-riches/00111099){:target="_blank"}* (fr). *[Diario16](https://diario16plus.com/activos-en-el-extranjero-el-saqueo-del-mundo-rico-a-los-paises-pobres/){:target="_blank"}* (es). 
 
-[Slides](https://gatonievas.github.io/documents/expriv_slides_may1224.pdf){:target="_blank"}
+[Slides](https://gatonievas.github.io/documents/expriv_slides_april0125.pdf){:target="_blank"}
 
 ---
 
