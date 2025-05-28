@@ -20,8 +20,10 @@ This paper constructs a new database on global trade flows and the world balance
 <br>
 ![]()
 
-[Slides](https://wbop.world/Data/NievasPiketty2025Slides.pdf){:target="_blank"}
 [World Historical Balance of Payments Database](https://wbop.world/){:target="_blank"}
+
+[Slides](https://wbop.world/Data/NievasPiketty2025Slides.pdf){:target="_blank"}
+
 ---
 
 **[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/document/has-the-us-exorbitant-privilege-become-a-rich-world-privilege-rates-of-return-and-foreign-assets-from-a-global-perspective-1970-2022-world-inequality-lab-working-paper-2024-14/){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}*. 
