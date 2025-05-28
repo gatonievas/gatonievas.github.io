@@ -8,7 +8,7 @@ order: 1
 # Research
 
 ## Working Papers
-**[Unequal Exchange and North-South Relations: Evidence from Global Trade Flows and the World Balance of Payments 1800-2025](){:target="_blank"}**  *with [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}*. 
+**[Unequal Exchange and North-South Relations: Evidence from Global Trade Flows and the World Balance of Payments 1800-2025](https://wid.world/document/unequal-exchange-and-north-south-relations-evidence-from-global-trade-flows-and-the-world-balance-of-payments-1800-2025-world-inequality-lab-working-paper-2025-11/){:target="_blank"}**  *with [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}*. 
 
 <details>
   <summary> Abstract </summary> 
@@ -20,6 +20,8 @@ This paper constructs a new database on global trade flows and the world balance
 <br>
 ![]()
 
+[Slides](https://wbop.world/Data/NievasPiketty2025Slides.pdf){:target="_blank"}
+[World Historical Balance of Payments Database](https://wbop.world/){:target="_blank"}
 ---
 
 **[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/document/has-the-us-exorbitant-privilege-become-a-rich-world-privilege-rates-of-return-and-foreign-assets-from-a-global-perspective-1970-2022-world-inequality-lab-working-paper-2024-14/){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}*. 
