@@ -7,7 +7,7 @@ order: 2
 
 # Data
 
-**[World Historical Balance of Payments Database](https://wbop.world/){:target="_blank"}
+**[World Historical Balance of Payments Database](https://wbop.world/){:target="_blank"}**
 
 <details>
   <summary> Abstract </summary> 
