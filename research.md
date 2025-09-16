@@ -26,6 +26,20 @@ This paper constructs a new database on global trade flows and the world balance
 
 ---
 
+**[Global Wealth Accumulation and Ownership Patterns, 1800-2025](https://wid.world/document/global-wealth-accumulation-and-ownership-patterns-1800-2025-world-inequality-lab-working-paper-2025-22/){:target="_blank"}**  *with [Luis Bauluz](https://sites.google.com/view/luisbauluz/welcome){:target="_blank"}, Pierre Brassac, Jonas Dietrich, [Clara Martínez-Toledano](https://sites.google.com/view/claramartinez-toledanotoledano/home){:target="_blank"}, Moritz Odersky, [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}, [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"} and [Anmol Somanchi](https://sites.google.com/view/anmolsmnch){:target="_blank"}*. 
+
+<details>
+  <summary> Abstract </summary> 
+  <br>
+  <blockquote>
+This paper builds a new historical and comparative database on global wealth accumulation covering all world regions. For recent decades (1980-2025), we provide decompositions of wealth accumulation into volume effects  (savings) and price effects (capital gains), as well as global series on capital shares and rates of return. We also provide estimates for national wealth, domestic capital and foreign wealth, private and public wealth throughout the 1800-2025 period. We find very large variations in wealth-income and capital-output ratios, ownership patterns and capital shares over time and across countries. These historical and regional variations appear to be largely due to changing ideology, balance of power and institutions, rather than purely economic or technological factors. We also discuss the implications of our findings for the future in the context of the climate and energy transformation.
+  </blockquote>
+ </details>
+<br>
+![]()
+
+---
+
 **[Has the US exorbitant privilege become a rich world privilege? Rates of return and foreign assets from a global perspective, 1970-2022](https://wid.world/document/has-the-us-exorbitant-privilege-become-a-rich-world-privilege-rates-of-return-and-foreign-assets-from-a-global-perspective-1970-2022-world-inequality-lab-working-paper-2024-14/){:target="_blank"}**  *with [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"}*. 
 
 <details>
