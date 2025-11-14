@@ -11,7 +11,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body{% if page.no_sidebar %} class="no-sidebar"{% endif %}>
     <div class="wrapper">
       <header>
         <h2><b>Gastón Nievas</b></h2>
@@ -71,6 +71,15 @@
       section p {
         text-align: justify;
       }
+      /* For pages without sidebar (Research, Data) */
+      .no-sidebar header {
+        float: none;
+        width: auto;
+      }
+      .no-sidebar section {
+        margin-left: 0;
+      }
+
     </style>
 
    </section>  
