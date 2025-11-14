@@ -1,6 +1,7 @@
 ---
 title: Data
 layout: template
+no_sidebar: true
 filename: data
 order: 2
 --- 
