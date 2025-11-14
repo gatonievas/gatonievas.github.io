@@ -8,13 +8,31 @@ order: 1
 # Research
 
 ## Working Papers
-**[Unequal Exchange and North-South Relations: Evidence from Global Trade Flows and the World Balance of Payments 1800-2025](){:target="_blank"}**  *with [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}*. 
+**[Unequal Exchange and North-South Relations: Evidence from Global Trade Flows and the World Balance of Payments 1800-2025](https://wid.world/document/unequal-exchange-and-north-south-relations-evidence-from-global-trade-flows-and-the-world-balance-of-payments-1800-2025-world-inequality-lab-working-paper-2025-11/){:target="_blank"}**  *with [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}*. 
 
 <details>
   <summary> Abstract </summary> 
   <br>
   <blockquote>
 This paper constructs a new database on global trade flows and the world balance of payment (including goods, services, income and transfers) covering 57 core territories (48 main countries + 9 residual regions) over the 1800-2025 period. This allows us to analyze patterns of global imbalances, current account surplus/deficit and net foreign wealth accumulation over more than two centuries. We quantify the role of colonial transfers and low commodity prices (due to forced labor and other factors) in the build-up of Europe’s foreign wealth during the 1800-1914 period. We compare this experience to the global imbalances which developed during the 1970-2025 period. We stress the persistent role of unequal bargaining power and terms of exchange and the need for collective rules. We also provide counterfactual simulations on foreign wealth accumulation under alternative trade & monetary regimes.
+  </blockquote>
+ </details>
+<br>
+![]()
+
+[World Historical Balance of Payments Database](https://wbop.world/){:target="_blank"}
+
+[Slides](https://wbop.world/Data/NievasPiketty2025Slides.pdf){:target="_blank"}
+
+---
+
+**[Global Wealth Accumulation and Ownership Patterns, 1800-2025](https://wid.world/document/global-wealth-accumulation-and-ownership-patterns-1800-2025-world-inequality-lab-working-paper-2025-22/){:target="_blank"}**  *with [Luis Bauluz](https://sites.google.com/view/luisbauluz/welcome){:target="_blank"}, Pierre Brassac, Jonas Dietrich, [Clara Martínez-Toledano](https://sites.google.com/view/claramartinez-toledanotoledano/home){:target="_blank"}, Moritz Odersky, [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}, [Alice Sodano](https://sites.google.com/view/alicesodano){:target="_blank"} and [Anmol Somanchi](https://sites.google.com/view/anmolsmnch){:target="_blank"}*. 
+
+<details>
+  <summary> Abstract </summary> 
+  <br>
+  <blockquote>
+This paper builds a new historical and comparative database on global wealth accumulation covering all world regions. For recent decades (1980-2025), we provide decompositions of wealth accumulation into volume effects  (savings) and price effects (capital gains), as well as global series on capital shares and rates of return. We also provide estimates for national wealth, domestic capital and foreign wealth, private and public wealth throughout the 1800-2025 period. We find very large variations in wealth-income and capital-output ratios, ownership patterns and capital shares over time and across countries. These historical and regional variations appear to be largely due to changing ideology, balance of power and institutions, rather than purely economic or technological factors. We also discuss the implications of our findings for the future in the context of the climate and energy transformation.
   </blockquote>
  </details>
 <br>
