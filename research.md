@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: template
+no_sidebar: true
 filename: research
 order: 1
 --- 
