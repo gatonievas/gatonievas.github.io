@@ -73,11 +73,12 @@
       }
       /* For pages without sidebar (Research, Data) */
       .no-sidebar header {
-        float: none;
-        width: auto;
+        display: none;          /* hide the left column completely */
       }
       .no-sidebar section {
-        margin-left: 0;
+        float: none;            /* cancel theme's float:right */
+        width: 100%;            /* full width */
+        margin-left: 0;         /* no left margin */
       }
 
     </style>
