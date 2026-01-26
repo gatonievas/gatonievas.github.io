@@ -9,6 +9,25 @@ order: 1
 # Research
 
 ## Working Papers
+
+**[Equality and Development: A Comparative and Historical Perspective, 1800-2025](https://prod.wid.world/www-site/uploads/2025/10/WorldInequalityLab_WP2025_25_-Equality-and-Development_A-Comparative-Historical-Perspective-1800-2025_Final.pdf){:target="_blank"}**  *with World Inequality Lab team*. 
+
+<details>
+  <summary> Abstract </summary> 
+  <br>
+  <blockquote>
+This paper uses extended series on income and wealth inequality from the World Inequality Database covering all world regions over the 1800-2025 period, together with new series on hourly productivity and human capital expenditure, to revisit the relationship between equality and development, with a much broader comparative and historical perspective than previous studies. Over the long run, we find a strong positive association between equality and productivity. Our proposed interpretation is that the rise of inclusive “social-democratic” institutions (including extended access to human capital, public services and democratic participation) led both to more equality and higher productivity, particularly in Western and Nordic Europe. We discuss the implications for future sustainable development strategies.
+  </blockquote>
+ </details>
+<br>
+![]()
+
+[World Historical Balance of Payments Database](https://wbop.world/){:target="_blank"}
+
+[Slides](https://wbop.world/Data/NievasPiketty2025Slides.pdf){:target="_blank"}
+
+---
+
 **[Unequal Exchange and North-South Relations: Evidence from Global Trade Flows and the World Balance of Payments 1800-2025](https://wid.world/document/unequal-exchange-and-north-south-relations-evidence-from-global-trade-flows-and-the-world-balance-of-payments-1800-2025-world-inequality-lab-working-paper-2025-11/){:target="_blank"}**  *with [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}*. 
 
 <details>
@@ -60,6 +79,13 @@ Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/a
 
 ---
 
+## Selected work in progress
+
+Trade Globalization and the Reduction of Global Poverty (with Kirill Borusyak, Amory Gethin and Xavier Jaravel)
+
+
+## Pre-PhD work
+
 **[Trade and diplomacy Economic determinants of international cooperation agreements and its effect on international trade in the post World War II era: 1945-2022](https://shs.hal.science/halshs-04721902v2){:target="_blank"}**  *with [Antoni Estevadeordal](https://www.ibei.org/en/antoni-estevadeordal_43420){:target="_blank"}*. 
 
 <details>
@@ -73,8 +99,6 @@ We study the determinants of international cooperation and its effect on trade. 
 ![]()
 
 ---
-
-## Chapters in books
 
 **[Trade and GVC Integration in Latin America and the Caribbean](https://elibrary.worldbank.org/doi/abs/10.1596/978-1-4648-1824-0_ch1){:target="_blank"}**  *with [Ana Margarida Fernandes](https://sites.google.com/site/decrganamargaridafernandes/home){:target="_blank"} and [Deborah Winkler](https://www.worldbank.org/en/about/people/d/deborah-winkler){:target="_blank"}*.  
 
