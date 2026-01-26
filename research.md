@@ -22,10 +22,6 @@ This paper uses extended series on income and wealth inequality from the World I
 <br>
 ![]()
 
-[World Historical Balance of Payments Database](https://wbop.world/){:target="_blank"}
-
-[Slides](https://wbop.world/Data/NievasPiketty2025Slides.pdf){:target="_blank"}
-
 ---
 
 **[Unequal Exchange and North-South Relations: Evidence from Global Trade Flows and the World Balance of Payments 1800-2025](https://wid.world/document/unequal-exchange-and-north-south-relations-evidence-from-global-trade-flows-and-the-world-balance-of-payments-1800-2025-world-inequality-lab-working-paper-2025-11/){:target="_blank"}**  *with [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}*. 
@@ -79,9 +75,11 @@ Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/a
 
 ---
 
+
 ## Selected work in progress
 
 Trade Globalization and the Reduction of Global Poverty (with Kirill Borusyak, Amory Gethin and Xavier Jaravel)
+
 
 
 ## Pre-PhD work
