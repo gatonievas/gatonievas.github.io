@@ -80,11 +80,27 @@ Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/a
 
 Trade Globalization and the Reduction of Global Poverty (with Kirill Borusyak, Amory Gethin and Xavier Jaravel)
 
+---
 
+## Other 
+
+**[Distributional National Accounts GuidelinesMethods and Concepts Used in the World Inequality Database](https://wid.world/document/distributional-national-accounts-dina-guidelines-2025-methods-and-concepts-used-in-the-world-inequality-database/){:target="_blank"}**  *coordinated with [Lucas Chancel](https://lucaschancel.com/en/){:target="_blank"}, [Ignacio Flores](https://ignacioflores.com/){:target="_blank"}, [Rowaida Moshrif](https://sites.google.com/view/rowaidamoshrif/home){:target="_blank"} and [Thomas Piketty](https://piketty.pse.ens.fr/en/){:target="_blank"}*. 
+
+<details>
+  <summary> Abstract </summary> 
+  <br>
+  <blockquote>
+The purpose of these Distributional National Accounts (DINA) guidelines is to present the concepts, data sources and methods used in the World Inequality Database (WID). The first version was published in 2016. This third edition constitutes a major revision. These new guidelines have been reorganized for clarity, and extended with a lot of new and revised material. In recent years, the WIL has been leading efforts in creating “distributional national accounts.” The goal is to provide estimates of the distribution of income and wealth that are harmonized over time and across countries, that are consistent with the macroeconomic aggregates produced by national statistical institutes, and that can therefore be viewed as a distributional extension of the existing international System of National Accounts (SNA).
+  </blockquote>
+ </details>
+<br>
+![]()
+
+---
 
 ## Pre-PhD work
 
-**[Trade and diplomacy Economic determinants of international cooperation agreements and its effect on international trade in the post World War II era: 1945-2022](https://shs.hal.science/halshs-04721902v2){:target="_blank"}**  *with [Antoni Estevadeordal](https://www.ibei.org/en/antoni-estevadeordal_43420){:target="_blank"}*. 
+**[Trade and diplomacy Economic determinants of international cooperation agreements and its effect on international trade in the post World War II era: 1945-2022](https://shs.hal.science/halshs-04721902v2){:target="_blank"}**  *with [Antoni Estevadeordal](https://lucaschancel.com/){:target="_blank"}*. 
 
 <details>
   <summary> Abstract </summary> 
