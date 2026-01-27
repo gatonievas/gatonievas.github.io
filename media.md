@@ -28,9 +28,6 @@ Below is a chronological overview of press articles that mention or discuss my r
   “No country or world region has ever received foreign income inflows approaching the magnitude of Europe’s in the 19th century.”  
   “Today financial transfers mostly flow North to South via remittances.”
 
-* **["Africa’s counterfactual economic trajectory in the absence of colonialism" (Medium, Nigeria, 10 June 2025)](https://chxta.medium.com/africas-counterfactual-economic-trajectory-in-the-absence-of-colonialism-5ee2e0d14e37){:target="_blank"}**  
-  “The working paper may be the most comprehensive analysis of how colonial transfers and unequal trade shaped global imbalances.”  
-  “Sub-Saharan Africa would have been a net creditor under fair commodity prices.”
 
 * **["BRICS transferem o equivalente a R$ 3,4 tri por ano para países ricos" (Revista Fórum, Brazil, 25 April 2024)](https://revistaforum.com.br/global/brics-transferem-o-equivalente-a-r-34-tri-por-ano-para-paises-ricos/){:target="_blank"}**  
   “Os países em desenvolvimento transferem aos países ricos entre 2 % e 3 % de seu PIB.”  
@@ -45,17 +42,6 @@ Below is a chronological overview of press articles that mention or discuss my r
 * **["BRICS plans ‘multi-currency system’ to challenge US dollar dominance" (Geopolitical Economy, Canada, 19 October 2024)](https://geopoliticaleconomy.com/2024/10/19/brics-russia-multi-currency-system-us-dollar/){:target="_blank"}**  
   “The richest countries have become the bankers of the world, attracting excess savings with low-yield safe assets and investing these inflows in more profitable ventures.”  
   “This imposes a burden of 2–3 % of GDP on the bottom 80 %.”
-
-* **["BRICS Plans ‘Multi-Currency System’ To Challenge US Dollar Dominance" (Orinoco Tribune, Venezuela, 23 October 2024)](https://orinocotribune.com/brics-plans-multi-currency-system-to-challenge-us-dollar-dominance-understanding-russias-proposal/){:target="_blank"}**  
-  “The richest countries have become the bankers of the world.”  
-  “Countries in the bottom 80 % lose around 2–3 % of their GDP.”
-
-* **["Imperialism: now we have some numbers" (Links, Australia, 15 September 2024)](https://links.org.au/imperialism-now-we-have-some-numbers){:target="_blank"}**  
-  “The top 20 % of countries receive positive transfers of about 1 % of their GDP.”  
-  “This privilege results from institutional design, not a market outcome.”
-
-* **["The African debt dilemma: unpacking the three unfavourable factors" (ODI, United Kingdom, 10 June 2024)](https://odi.org/en/insights/the-african-debt-dilemma-unpacking-the-three-unfavourable-factors/){:target="_blank"}**  
-  “Wealthy countries have become global bankers, attracting excess savings via low-yield safe assets and investing these inflows in more profitable ventures.”
 
 * **["The Guardian view on globalisation’s discontent: it’s not right for poor countries to fund the rich" (The Guardian, United Kingdom, 24 April 2024)](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}**  
   “The bottom four-fifths of humanity finance the richest fifth to the tune of $660bn a year.”  
