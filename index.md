@@ -11,6 +11,8 @@ I am an Economics PhD student at the [Paris School of Economics (PSE)](https://w
 
 The 2025-2026 academic year I will be visiting [Oleg Itskhoki](https://itskhoki.com/){:target="_blank"} at Harvard University.
 
+I'm part of the 2026 [Next-Geo cohort](https://www.kielinstitut.de/institute/career/next-geo-program/){:target="_blank"}.
+
 Before joining PSE I spent 2 years as a Research Fellow at the InterAmerican Development Bank and 1 year at the World Bank, both in Washington D.C. (U.S.). I'm originally from Bahía Blanca (Argentina), where I did my BA in Universidad Nacional del Sur. I also hold a MA from Universidad de San Andrés and a MSc (Analysis and Policy in Economics) from PSE. 
 
 My research interests lie within International Political Economy and Geoeconomics, with a particular focus on International Macroeconomics. 
