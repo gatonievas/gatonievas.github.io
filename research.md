@@ -10,6 +10,20 @@ order: 1
 
 ## Working Papers
 
+**[The Global Democratic Deficit: Institutional Asymmetries and the Provision of Global Public Goods](https://wid.world/document/the-global-democratic-deficit-institutional-asymmetries-and-the-provision-of-global-public-goods-world-inequality-lab-working-paper-2026-06/){:target="_blank"}**  *with Paula Druschke*. 
+
+<details>
+  <summary> Abstract </summary> 
+  <br>
+  <blockquote>
+This paper investigates how global governance structures shape the provision and distribution of global public goods (GPGs). We construct a novel historical database on the Global Public System, covering more than 60 international organizations from the League of Nations (1920) to today, including the Bretton Woods system (World Bank and IMF), the United Nations and its agencies, the European Union and a broad set of multilateral development banks. We document two systematic patterns. First, in institutions where votes have a fixed price, richer countries accumulate more power because it is cheaper for them relative to their GDP. In the IMF, for instance, the cost of acquiring voting power is 26 times higher for low-income countries, resulting in high-income countries concentrating 70% of votes. Second, these same institutions display strong evidence of strategic allocation. Around 70% of World Bank and IMF funds go to countries that are aligned with the G7. By contrast, more democratic institutions—such as the UN—exhibit progressive contribution profiles and no evidence of alignment-based allocation. We interpret these findings through the lens of institutional design. When financial contributions translate into voting power, the same mechanism that lowers the relative cost of influence for large economies also allows them to steer resource allocation toward preferred partners. We formalize this logic in a simple constitutional model of public-goods provision under alternative governance rules. The findings have implications for the design of a more democratic architecture of global governance.
+  </blockquote>
+ </details>
+<br>
+![]()
+
+---
+
 **[Equality and Development: A Comparative and Historical Perspective, 1800-2025](https://prod.wid.world/www-site/uploads/2025/10/WorldInequalityLab_WP2025_25_-Equality-and-Development_A-Comparative-Historical-Perspective-1800-2025_Final.pdf){:target="_blank"}**  *with World Inequality Lab team*. 
 
 <details>
