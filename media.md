@@ -63,4 +63,4 @@ Below is a chronological overview of press articles that mention or discuss my r
 
 * **["La hipocresía occidental acaricia su momento de máximo esplendor" (elDiarioAR, Argentina, 2024)](https://www.eldiarioar.com/mundo/hipocresia-occidental-acaricia-momento-maximo-esplendor_129_11306033.html){:target="_blank"}**  
   “Los países ricos pretenden estar a favor de mercados justos y abiertos… pero en la práctica la forma en que se organizan y regulan los mercados financieros conduce a una enorme transferencia de ingresos del Sur global al Norte global.”  
-  “El exorbitante privilegio de Estados Unidos se ha convertido en un privilegio del mundo rico.” [a](https://gatonievas.github.io/documents/macrolunch_presentation.pdf){:target="_blank"}
+  “El exorbitante privilegio de Estados Unidos se ha convertido en un privilegio del mundo rico.” 
