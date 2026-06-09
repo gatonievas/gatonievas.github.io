@@ -39,6 +39,6 @@ The International Cooperation Agreements Database (ICAD) is a new and comprehens
 <br>
 ![]()
 
-Source: [The International Cooperation Agreements Database (ICAD): A Methodological Note](https://www.ibei.org/en/the-international-cooperation-agreements-database-icad-a-methodological-note_443863){:target="_blank"}  *with [Amitav Acharya](https://en.wikipedia.org/wiki/Amitav_Acharya){:target="_blank"}*, [Antoni Estevadeordal](https://www.ibei.org/en/antoni-estevadeordal_43420?parent=830){:target="_blank"}* and [Louis Goodman](https://www.american.edu/sis/faculty/goodman.cfm){:target="_blank"}*
+Source: [The International Cooperation Agreements Database (ICAD): A Methodological Note](https://www.ibei.org/en/the-international-cooperation-agreements-database-icad-a-methodological-note_443863){:target="_blank"}  *with [Amitav Acharya](https://en.wikipedia.org/wiki/Amitav_Acharya){:target="_blank"}*, [Antoni Estevadeordal](https://www.ibei.org/en/antoni-estevadeordal_43420?parent=830){:target="_blank"} and [Louis Goodman](https://www.american.edu/sis/faculty/goodman.cfm){:target="_blank"}
 
 ---
