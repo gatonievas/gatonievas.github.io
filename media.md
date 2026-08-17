@@ -8,6 +8,11 @@ order: 3
 Below is a chronological overview of press articles that mention or discuss my research.
 
 <!-- The most recent articles are listed first -->
+* **["Colonialism: The debt behind Europe's “civilizing mission”" (TelQuel, Morocco, 17 August 2026)](https://telquel.ma/2026/08/17/colonialism-the-debt-behind-europes-civilizing-mission_2002857){:target="_blank"}**
+* 
+* **["Gastón Nievas : “Penser que les marchés sont libres est faux et c'est en partie le résultat de la période coloniale”" (TelQuel, Morocco, 04 August 2026)](https://telquel.ma/2026/08/04/gaston-nievas-penser-que-les-marches-sont-libres-est-faux-et-cest-en-partie-le-resultat-de-la-periode-coloniale_2001965){:target="_blank"}**  
+
+* **["Colonisation : le mythe du colon financeur du développement se heurte à la data”" (TelQuel, Morocco, 30 July 2026)](https://telquel.ma/2026/07/30/colonisation-le-mythe-du-colon-financeur-du-developpement-se-heurte-a-la-data_2001398){:target="_blank"}**
 
 * **["Un pillage colossal : comment la domination coloniale a façonné les inégalités Nord-Sud" (Elucid, France, 14 December 2025)](https://elucid.media/analyse-graphique/un-pillage-colossal-comment-la-domination-coloniale-a-faconne-les-inegalites-nord-sud){:target="_blank"}**  
   « L’Europe a accumulé un surplus dans ses transactions avec le reste du monde atteignant jusqu’à 4 % de son PIB » ; « sans transferts coloniaux et avec des prix plus justes, l’Afrique subsaharienne et l’Amérique latine auraient pu converger vers les niveaux de vie européens ».
