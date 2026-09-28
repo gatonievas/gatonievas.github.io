@@ -22,6 +22,8 @@ This paper investigates how global governance structures shape the provision and
 <br>
 ![]()
 
+Media coverage: *[LSE Blogs](https://blogs.lse.ac.uk/activism-influence-change/2026/04/01/the-imf-the-world-bank-and-the-price-of-power-why-global-governance-is-rigged-against-the-poor/){:target="_blank"}* (en). 
+
 ---
 
 **[Equality and Development: A Comparative and Historical Perspective, 1800-2025](https://prod.wid.world/www-site/uploads/2025/10/WorldInequalityLab_WP2025_25_-Equality-and-Development_A-Comparative-Historical-Perspective-1800-2025_Final.pdf){:target="_blank"}**  *with World Inequality Lab team*. 
@@ -51,6 +53,10 @@ This paper constructs a new database on global trade flows and the world balance
 ![]()
 
 [World Historical Balance of Payments Database](https://wbop.world/){:target="_blank"}
+
+Media coverage: *[LSE Blogs](https://blogs.lse.ac.uk/inequalities/2026/06/02/does-the-design-of-the-international-monetary-system-sustain-inequality/){:target="_blank"}* (en). *[TelQuel]([https://blogs.lse.ac.uk/inequalities/2026/06/02/does-the-design-of-the-international-monetary-system-sustain-inequality/](https://telquel.ma/2026/08/17/colonialism-the-debt-behind-europes-civilizing-mission_2002857)){:target="_blank"}* (en). *[TelQuel](https://telquel.ma/2026/08/04/gaston-nievas-penser-que-les-marches-sont-libres-est-faux-et-cest-en-partie-le-resultat-de-la-periode-coloniale_2001965){:target="_blank"}* (fr). *[The AIDEM](https://theaidem.com/en-study-traces-north-south-divide-to-colonial-servitude/){:target="_blank"}* (fr). *[Alternatives Economiques](https://www.alternatives-economiques.fr/nievas-et-piketty-retracent-deux-siecles-de-financiarisation-du-monde_19-06-2025){:target="_blank"}* (fr). *[Daily Maverick](https://www.dailymaverick.co.za/article/2025-06-17-foreign-transfers-now-flow-mostly-north-to-south-via-remittances-report/){:target="_blank"}* (en).
+
+
 
 [Slides](https://wbop.world/Data/NievasPiketty2025Slides.pdf){:target="_blank"}
 
@@ -83,7 +89,7 @@ to 1% of the GDP of top 20% countries (and 2% of GDP for top 10% countries), all
 <br>
 ![]()
 
-Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).  *[Alternatives Economiques](https://www.alternatives-economiques.fr/pays-pauvres-financent-plus-riches/00111099){:target="_blank"}* (fr). *[Diario16](https://diario16plus.com/activos-en-el-extranjero-el-saqueo-del-mundo-rico-a-los-paises-pobres/){:target="_blank"}* (es). 
+Media coverage: *[The Guardian](https://www.theguardian.com/commentisfree/2024/apr/24/the-guardian-view-on-globalisations-discontent-its-not-right-for-poor-countries-to-fund-the-rich){:target="_blank"}* (en).  *[Alternatives Economiques](https://www.alternatives-economiques.fr/pays-pauvres-financent-plus-riches/00111099){:target="_blank"}* (fr). *[Diario16](https://diario16plus.com/activos-en-el-extranjero-el-saqueo-del-mundo-rico-a-los-paises-pobres/){:target="_blank"}* (es). *[LSE Blogs](https://blogs.lse.ac.uk/inequalities/2026/06/02/does-the-design-of-the-international-monetary-system-sustain-inequality/){:target="_blank"}* (en). *[Le Monde](https://www.lemonde.fr/economie/article/2025/12/09/comment-le-privilege-exorbitant-du-nord-global-renforce-les-inegalites-mondiales_6656582_3234.html){:target="_blank"}* (fr). 
 
 [Slides](https://gatonievas.github.io/documents/expriv_slides_april0125.pdf){:target="_blank"}
 
